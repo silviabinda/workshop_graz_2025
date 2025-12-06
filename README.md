@@ -4,7 +4,7 @@
 - date: Wednesday 3rd of December, 2025
 - location: mur.at, Graz, Austria
 
-This workshop was part of the Worklab Residency (https://cia.mur.at/worklab/) taking place from 1st to 5th of December in Graz, Austria.
+This workshop was part of the Worklab Residency (https://cia.mur.at/worklab/) taking place from 1st to 5th of December 2025 in Graz, Austria.
 
 ## Workshop Description
 In this workshop, we will learn to how to build functional sound-making devices with the use of ESP-32. We will assemble, wire and code, using 3D prints, ESP-32 microcontrollers, mini-speakers and amplifiers. Finallly, we will create a collective symphony with our digitally controlled sound devices. The workshop is beginner level and no previous knowledge is required.
